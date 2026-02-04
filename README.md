@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Tamar Itzhakov Software Engineering Student
+# 👋 Hi, I'm Tamar Itzhakov Software Developer
 
 Welcome to my GitHub!\
-I'm a software engineering student currently building full-stack
+I'm a software developer currently building full-stack
 projects using **Node.js**, **SQL Server**, and **React**.
 
 ## 🌟 About Me
